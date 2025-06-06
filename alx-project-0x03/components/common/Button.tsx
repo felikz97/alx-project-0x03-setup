@@ -1,7 +1,7 @@
 // components/common/Button.tsx
-import { ButtonProps } from "@/interfaces";
 // components/common/Button.tsx
 import React from "react";  
+import { ButtonProps } from "@/interface";
 
 interface ButtonProps {
   buttonLabel: string
