@@ -1,8 +1,4 @@
 import Button from "@/components/common/Button";
-// This is the main entry point for the Next.js application
-// It serves as the home page of the application
-import React from "react";
-// Importing the useRouter hook from Next.js for navigation
 import { useRouter } from "next/router";
 
 interface PageRouteProps {
